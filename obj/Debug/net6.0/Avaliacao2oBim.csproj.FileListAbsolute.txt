@@ -1,0 +1,15 @@
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\bin\Debug\net6.0\Avaliacao2oBim.exe
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\bin\Debug\net6.0\Avaliacao2oBim.deps.json
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\bin\Debug\net6.0\Avaliacao2oBim.runtimeconfig.json
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\bin\Debug\net6.0\Avaliacao2oBim.dll
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\bin\Debug\net6.0\Avaliacao2oBim.pdb
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.csproj.AssemblyReference.cache
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.AssemblyInfoInputs.cache
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.AssemblyInfo.cs
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.dll
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\refint\Avaliacao2oBim.dll
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.pdb
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\Avaliacao2oBim.genruntimeconfig.cache
+C:\Users\Vini\Documents\Faculdade\Padrões de Projetos\Avaliacao2oBim\obj\Debug\net6.0\ref\Avaliacao2oBim.dll

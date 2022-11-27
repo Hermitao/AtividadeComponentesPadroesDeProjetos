@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Avaliacao2oBim/1.0.0": {
+        "runtime": {
+          "Avaliacao2oBim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avaliacao2oBim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
